@@ -128,13 +128,21 @@ main > article > h2 {
 }
 
 picture > img {
-    display: inline;  
+    display: inline; 
+    max-width: 100%; 
 }
 
 main > article > picture > source {
-   margin-right: -18px;
+   margin-right: -30px;
    max-width: 50%;  
+   margin-left: 20px;
 }
+.mascote {
+    margin-right: -25px;
+    max-width: 50%;
+
+}
+
 
 .pequena {
     display: block;

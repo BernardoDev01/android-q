@@ -27,7 +27,7 @@
 body {
     background-color:var(--cor01);
     font-family: var(--fonte-padrao);
-
+    
 }
 
 a.externo::after{
@@ -133,6 +133,8 @@ picture > img {
 
 main > article > picture > source {
    margin-right: -10px;
+   text-align: center;
+   max-width: 100%;
    
 }
 

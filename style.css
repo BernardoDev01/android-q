@@ -133,8 +133,7 @@ picture > img {
 
 main > article > picture > source {
    margin-right: -10px;
-   max-width: 50%;
-   
+   max-width: 50%;  
 }
 
 .pequena {

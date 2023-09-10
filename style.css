@@ -21,10 +21,8 @@
     --fonte-android: 'Android', cursive;
 } 
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
+
+
 
 body {
     background-color:var(--cor01);
@@ -129,7 +127,7 @@ picture > img {
 }
 
 main > article > picture > source {
-    padding: 0px -10px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .pequena {

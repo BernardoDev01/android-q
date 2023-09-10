@@ -133,8 +133,7 @@ picture > img {
 
 main > article > picture > source {
    margin-right: -10px;
-   text-align: center;
-   max-width: 100%;
+   max-width: 50%;
    
 }
 

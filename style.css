@@ -124,13 +124,8 @@ main > article > h2 {
     font-weight: normal;
 }
 
-main > img {
-    width: 100%;    
-}
-
 picture > img {
     display: inline;  
-    
 }
 
 .pequena {

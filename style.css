@@ -122,12 +122,18 @@ main > article > h2 {
     font-weight: normal;
 }
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 picture > img {
     display: inline;  
 }
 
 main > article > picture > source {
-   margin-right: -40px;
+   margin-right: -10px;
+   
 }
 
 .pequena {
